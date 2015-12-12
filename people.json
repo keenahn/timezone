@@ -55,7 +55,7 @@
   },
   {
     "name": "Andrea",
-    "avatar": "https://pbs.twimg.com/profile_images/496178978818760705/DDwHWMR4.jpeg",
+    "avatar": "/images/people/andrea.jpg",
     "city": "London",
     "tz": "Europe/London"
   },
@@ -70,5 +70,32 @@
     "avatar": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAJ5AAAAJDNjOWFlMzU0LWY2MTAtNDUyZi1iZDBlLTYxNDNmN2FlZDk1OA.jpg",
     "city": "London",
     "tz": "Europe/London"
+  },
+  {
+    "name": "Corey",
+    "avatar": "/images/people/corey.jpg",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Daniel",
+    "avatar": "/images/people/daniel.jpg",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Beau",
+    "avatar": "https://d13pix9kaak6wt.cloudfront.net/background/users/b/e/a/beau.bergeron_1400611067_5.jpg",
+    "city": "Oakland",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Nick",
+    "avatar": "https://media.licdn.com/media/p/7/005/06b/281/376ffea.jpg",
+    "city": "Los Angeles",
+    "tz": "America/Los_Angeles"
   }
+
+
+
 ]
